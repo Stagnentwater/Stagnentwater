@@ -75,7 +75,7 @@
 ---
 
 ### 🧠 Philosophy I Code By
-> "Build things that matter. Learn deeply. Ship boldly."
+> "I'm not Lazy, I'm on energy saving mode"
 
 - 🔭 I’m currently working on <b>Silent-Voice</b>
 - 🌱 I’m currently learning <b>Machine Learning</b>
