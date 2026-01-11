@@ -29,13 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stagnentwater&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stagnentwater&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" /></a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stagnentwater&theme=radical" />
-</p>
+
 
 
 ---
