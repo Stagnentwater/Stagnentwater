@@ -23,13 +23,20 @@
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,firebase,git,github,linux,arduino,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,firebase,git,github,arduino,opencv,tensorflow" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stagnentwater&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Stagnentwater&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stagnentwater&theme=tokyonight" />
+</p>
+
 
 
 
