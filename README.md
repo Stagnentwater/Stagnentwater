@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="120" align="center" valign="top">
+    <td width="180" align="center" valign="top">
       <img src="assets/moon.png" width="200" alt="Moon" />
     </td>
     <td align="center" valign="top">
